@@ -1,5 +1,14 @@
-### Olá 👋
-(testando)
+### Olá, me chamo Jhonatan Gonçalves 👋
+
+Em resumo, nos meios formais atuo como Arquiteto de Software, mas a chama primária de desenvolvedor Full Stack continua acesa. Essencialmente autodidata, e com o propósito de criações significativas.
+
+*Obs.: Por muito tempo fui adepto do Subversion e TortoiseSVN com servidores privados para os meus projetos. A casa pode parecer meio vazia, mas aos poucos vou trazendo-os para cá também.* 😶
+
+- 📗 Interesse especial por livros, sobretudo os de fantasia (O Nome do Vento, por sinal, é um dos melhores que já li). Minha leitura atual é Inteligência Emocional de Daniel Goleman.
+- 💬 Pergunte-me sobre qualquer coisa, caso eu não saiba, buscaremos a resposta e aprenderemos juntos.
+- 📫 Encontre-me em: https://www.linkedin.com/in/jhonatan-goncalves ou e-mail no perfil GitHub.
+
+(Em construção)
 <!--
 **jsagon/jsagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
