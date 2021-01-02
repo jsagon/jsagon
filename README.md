@@ -15,8 +15,7 @@ Detalhes...
 - 💬 Pergunte-me sobre qualquer coisa, caso eu não saiba, buscaremos a resposta e aprenderemos juntos.
 - 📫 Encontre-me em: https://www.linkedin.com/in/jhonatan-goncalves ou e-mail no perfil GitHub.
 
-<br/>
-<p align="center">
+<div style="text-align:center">
 
 **Linguagens e ferramentas:**  
 
@@ -51,6 +50,6 @@ Detalhes...
 ![Subversion](https://img.shields.io/badge/-Subversion-black?logo=subversion&style=social)&nbsp;&nbsp;&nbsp;
 ![TortoiseSVN](https://img.shields.io/badge/-TortoiseSVN-black?logo=&style=social)&nbsp;&nbsp;&nbsp;
 
-</p>
+</div>
 
 *(Em construção...)*
