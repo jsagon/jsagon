@@ -22,11 +22,9 @@ Detalhes...
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node.js&style=social)&nbsp;&nbsp;&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.JS-black?logo=vue.js&style=social)&nbsp;&nbsp;&nbsp;
-
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;&nbsp;
 ![Zend Framework](https://img.shields.io/badge/-Zend%20Framework-black?logo=zend&style=social)&nbsp;&nbsp;&nbsp;
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?logo=css3&style=social)&nbsp;&nbsp;&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?logo=html5&style=social)&nbsp;&nbsp;&nbsp;
