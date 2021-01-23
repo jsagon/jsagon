@@ -14,6 +14,7 @@ Detalhes...
   - 📖 A leitura atual é Inteligência Emocional de Daniel Goleman.
 - 💬 Pergunte-me sobre qualquer coisa, caso eu não saiba, buscaremos a resposta e aprenderemos juntos.
 - 📫 Encontre-me em: https://www.linkedin.com/in/jhonatan-goncalves ou e-mail no perfil GitHub.
+- 🕵️ Para mais informações: https://jsagon.com/jhonatan-goncalves 
 
 <div style="text-align:center">
 
