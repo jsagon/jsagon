@@ -6,7 +6,9 @@ Essencialmente autodidata, e com o propósito de criações significativas.
 *Obs.: Por muito tempo fui adepto do Subversion e TortoiseSVN com servidores privados para os meus projetos. A casa pode parecer meio vazia, mas aos poucos vou trazendo-os para cá também, rs.* 
 
 Destaque - Projeto Open Source atual:
-- [NodeJS Framework API](https://github.com/jsagon/nodejs-framework-api)
+- [JSagon NodeJS Framework - Em breve](https://jsagon.com/dev/jsagon-nodejs-framework-em-breve)
+  - A JSagon NodeJS Framework tem como propósito fornecer um modelo simples, leve e rápido de desenvolvimento. Abstraindo a complexidade e focando principalmente nas questões essenciais. A framework fornece uma interface de fácil entendimento e customização.
+- [NodeJS Framework API](https://jsagon.com/dev/nodejs-framework-api-beta)
   - Estrutura, helpers e mecanismos que facilitam o desenvolvimento de uma API de fácil e rápida implementação, e completamente customizável.
 
 Detalhes...
