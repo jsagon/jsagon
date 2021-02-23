@@ -18,7 +18,7 @@ Detalhes...
 - 📫 Encontre-me em: https://www.linkedin.com/in/jhonatan-goncalves ou e-mail no perfil GitHub.
 - 🕵️ Para mais informações: https://jsagon.com/jhonatan-goncalves 
 
-
+<br>
 *Por estar em contato e auxiliando outros devs no dia a dia, resolvi criar alguns artigos para facilitar a passagem de conhecimentos.*<br>
 Artigo recente:
 - [Criando aplicações NodeJS e deploy no Heroku passo a passo.](https://jsagon.com/articles/criando-aplicacao-website-nodejs-express-handlebars-heroku-parte-1)
