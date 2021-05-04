@@ -24,7 +24,6 @@ Artigo recente:
 - [Criando aplicações NodeJS e deploy no Heroku passo a passo.](https://jsagon.com/articles/criando-aplicacao-website-nodejs-express-handlebars-heroku-parte-1)
   - Uma série de artigos ensinando a criação de uma aplicação, site, em NodeJS utilizando Express, Handlebars, Git e Heroku.
 - [Documentação JSagon Framework.](https://jsagon.com/jsagon-nodejs-framework)
-  - Documentação da JSagon Framework.
 
 <div style="text-align:center">
 
