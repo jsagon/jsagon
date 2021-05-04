@@ -6,7 +6,7 @@ Essencialmente autodidata, e com o propósito de criações significativas.
 *Obs.: Por muito tempo fui adepto do Subversion e TortoiseSVN com servidores privados para os meus projetos. A casa pode parecer meio vazia, mas aos poucos vou trazendo-os para cá também, rs.* 
 
 Destaque - Projeto Open Source atual:
-- [JSagon NodeJS Framework - Em breve](https://jsagon.com/dev/jsagon-nodejs-framework-em-breve)
+- [JSagon NodeJS Framework](https://jsagon.com/jsagon-nodejs-framework)
   - A JSagon NodeJS Framework tem como propósito fornecer um modelo simples, leve e rápido de desenvolvimento. Abstraindo a complexidade e focando principalmente nas questões essenciais. A framework fornece uma interface de fácil entendimento e customização.
 - [NodeJS Framework API](https://jsagon.com/dev/nodejs-framework-api-beta)
   - Estrutura, helpers e mecanismos que facilitam o desenvolvimento de uma API de fácil e rápida implementação, e completamente customizável.
@@ -22,8 +22,10 @@ Detalhes...
 *Por estar em contato e auxiliando outros devs no dia a dia, resolvi criar alguns artigos para facilitar a passagem de conhecimentos.*<br>
 Artigo recente:
 - [Criando aplicações NodeJS e deploy no Heroku passo a passo.](https://jsagon.com/articles/criando-aplicacao-website-nodejs-express-handlebars-heroku-parte-1)
-  - Uma série de artigos ensinando a criação de uma aplicação, site, em NodeJS utilizando Express, Handlebars, Git e Heroku. 
-  
+  - Uma série de artigos ensinando a criação de uma aplicação, site, em NodeJS utilizando Express, Handlebars, Git e Heroku.
+- [Documentação JSagon Framework.](https://jsagon.com/jsagon-nodejs-framework)
+  - Documentação da JSagon Framework.
+
 <div style="text-align:center">
 
 **Linguagens e ferramentas:**  
