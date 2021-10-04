@@ -8,8 +8,6 @@ Essencialmente autodidata, e com o propósito de criações significativas.
 Destaque - Projeto Open Source atual:
 - [JSagon NodeJS Framework](https://jsagon.com/jsagon-nodejs-framework)
   - A JSagon NodeJS Framework tem como propósito fornecer um modelo simples, leve e rápido de desenvolvimento. Abstraindo a complexidade e focando principalmente nas questões essenciais. A framework fornece uma interface de fácil entendimento e customização.
-- [NodeJS Framework API](https://jsagon.com/dev/nodejs-framework-api-beta)
-  - Estrutura, helpers e mecanismos que facilitam o desenvolvimento de uma API de fácil e rápida implementação, e completamente customizável.
 
 Detalhes...
 - 📗 Interesse especial por livros, sobretudo os de fantasia (O Nome do Vento, por sinal, considero um dos melhores e recomendo bastante). 
